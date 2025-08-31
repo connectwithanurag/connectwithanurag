@@ -1,9 +1,8 @@
 # Hi, I'm Anurag  
 
-**Frontend Developer** | Building fast, scalable, and user-friendly applications  
+**Frontend Developer with 2+ years of experience building scalable and user-friendly applications.**
 
-I approach frontend development with an engineering mindset—emphasizing performance, scalability, and maintainability. Currently exploring System Design and Microfrontends to strengthen my architectural skills.  
-
+I approach frontend development with an engineering mindset, emphasizing performance, scalability, and maintainability, and continuously exploring system design and emerging technologies to enhance the quality and impact of my work.
 ## Tech Stack  
 
 - **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, Vite  
