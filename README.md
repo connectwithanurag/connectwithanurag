@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Anurag  
 
-<!--
-**connectwithanurag/connectwithanurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer** | Building fast, scalable, and user-friendly applications  
 
-Here are some ideas to get you started:
+I approach frontend development with an engineering mindset—emphasizing performance, scalability, and maintainability. Currently exploring System Design and Microfrontends to strengthen my architectural skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack  
+
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, Vite  
+- **UI & Styling:** Tailwind CSS, Ant Design, Shadcn UI  
+- **State Management:** Zustand, Redux Toolkit  
+- **Data & APIs:** TanStack Query, TanStack Table  
+- **Build & Tools:** Git, Webpack Module Federation, Storybook  
