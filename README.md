@@ -9,4 +9,4 @@ I approach frontend development with an engineering mindset, emphasizing perform
 - **UI & Styling:** Tailwind CSS, Ant Design, Shadcn UI  
 - **State Management:** Zustand, Redux Toolkit  
 - **Data & APIs:** TanStack Query, TanStack Table  
-- **Build & Tools:** Git, Webpack Module Federation, Storybook  
+- **Build & Tools:** Git, Webpack Module Federation, Jira
