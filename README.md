@@ -6,7 +6,7 @@ I approach frontend development with an engineering mindset, emphasizing perform
 ## Tech Stack  
 
 - **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, Vite  
-- **UI & Styling:** Tailwind CSS, Ant Design, Shadcn UI  
+- **UI & Styling:** Tailwind CSS, Material UI, Bootstrap  
 - **State Management:** Zustand, Redux Toolkit  
 - **Data & APIs:** TanStack Query, TanStack Table  
 - **Build & Tools:** Git, Webpack Module Federation, Jira
