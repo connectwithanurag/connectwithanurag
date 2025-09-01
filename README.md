@@ -18,11 +18,13 @@ I approach frontend development with an engineering mindset, emphasizing perform
   <img src="https://github-readme-stats.vercel.app/api?username=syncswithanurag&show_icons=true&hide_title=true" width="100% height="150px"" />
 </div> 
 
-## Language Used 
+## Languages Used 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syncswithanurag&hide_title=true" width="100% height="150px"" />
 </div>  
+
+## Consistency
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=syncswithanurag&hide_title=true" width="100% height="150px"" />
